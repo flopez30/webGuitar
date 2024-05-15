@@ -1,0 +1,33 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    /* Agrega un fondo personalizado */
+    background-image: url(https://img.freepik.com/fotos-premium/textura-fondo-blanco-formas-geometricas-ilustracion-3d-renderizado-3d_158469-3089.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Encabezados */
+h1, h2 {
+    color: #333;
+}
+
+/* Imágenes */
+img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
